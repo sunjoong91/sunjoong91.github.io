@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ${title}
+title: "Typography"
 permalink: /typography/
 main_nav: true
 ---
