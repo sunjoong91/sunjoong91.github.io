@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Diary"
-permalink: /diary/
+title: "Posts"
+permalink: /posts/
 main_nav: true
 ---
 
@@ -16,11 +16,9 @@ main_nav: true
   <ul class="posts-list">
   {% for post in site.categories[cat] %}
     <li>
-		<!--
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </strong>
-	  -->
       <span class="post-date">- {{ post.date | date_to_long_string }}</span>
     </li>
   {% endfor %}
