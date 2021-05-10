@@ -1,5 +1,5 @@
 ---
-layout: diary
+layout: post
 title:  "SWAGGER"
 date:   2021-05-10T23:14:52-05:00
 author: sunjoong kim
