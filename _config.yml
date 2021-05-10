@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@sunjoong91 
+sunjoong91
+/
+sunjoong91.github.io
+1
+01
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+sunjoong91.github.io/_config.yml
+@sunjoong91
+sunjoong91 footer
+Latest commit b4f5ed4 2 hours ago
+ History
+ 1 contributor
+190 lines (164 sloc)  4.48 KB
+  
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
@@ -10,9 +41,9 @@ exclude:
 
 # Site settings
 title: Sunjoong's BLOG
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+subtitle: "Welcome to ths Sunjoong's BLOG"
+email: sunjoong91@nate.com
+name: Sunjoong kim
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -60,8 +91,6 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-  - cat : ETC
-    desc : ":("
 # Social icons and sharing options
 #
 # Social settings are used in two places:
@@ -78,32 +107,18 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
-
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url: ""
+    username: sunjoong91
+    url: "https://www.facebook.com/sunjoong.kim.397/"
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: sunjoong91
+    url: https://github.com/sunjoong91
     desc: Fork me on GitHub
-    share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
     share: true
 
   - name: Google+
@@ -111,7 +126,7 @@ social:
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -132,7 +147,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -181,7 +196,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
@@ -204,3 +219,15 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
