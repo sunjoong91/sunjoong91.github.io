@@ -216,7 +216,7 @@ models:
   post:
     type: page
     label: Post
-    folder: _posts
+    folder: _diary
     fields:
       - type: string
         name: layout
