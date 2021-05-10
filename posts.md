@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Diary"
-permalink: /diary/
+permalink: /posts/
 main_nav: true
 ---
 
