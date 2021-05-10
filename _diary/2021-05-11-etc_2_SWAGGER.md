@@ -6,7 +6,7 @@ author: sunjoong kim
 categories: ETC
 ---
 
-##SWAGGER란?
+## SWAGGER란?
 
 - 개발자가 REST API 서비스를 설계, 빌드, 문서화 할 수 있도록 하는 프로젝트
 
