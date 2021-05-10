@@ -213,9 +213,9 @@ models:
       - type: boolean
         name: main_nav
         label: Main Nav
-  post:
+  diary:
     type: page
-    label: Post
+    label: Diary
     folder: _diary
     fields:
       - type: string
