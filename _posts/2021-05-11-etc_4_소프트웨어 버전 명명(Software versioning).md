@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "싱글 페이지 애플리케이션"
-date:   2021-05-12T23:30:52-00:00
+title:  "다양한 소프트웨어 버전 명명 (Software versioning)"
+date:   2021-05-13T01:12:50-00:00
 author: sunjoong kim
 categories: ETC
 ---
@@ -19,7 +19,7 @@ categories: ETC
   공개된 라이브러리나 오픈소스라면 필수적인 Versioning 방법입니다.
   
 # CalVer (날짜 기반 Versioning)
-- Ubuntu Linux를 보면 다음과 같은 버전을 가지고 있습니다.
+- Ubuntu Linux를 보면 다음과 같은 버전을 가지고 있습니다.  
   <br>
   Ubuntu 4.10 (Warty Warthog)
   ...
