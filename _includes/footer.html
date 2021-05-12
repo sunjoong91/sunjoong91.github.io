@@ -39,7 +39,7 @@
 	
     <div class="site-signature">
       <p class="rss-subscribe text"><strong>연습용 site</a></strong></p>
-      <p class="text"><a href="javascript:haha();">node</a></p>
+      <p class="text"><a href="javascript:myProject('node');">node</a></p>
     </div>
 	
   </div>
@@ -55,10 +55,12 @@
 
 <script type="text/javascript">
 
-function haha(){
-	while(true){
-		alert('준비중입니다.');
+function myProject(div){
+	if(div == 'node'){
+		location.href = "http://124.58.199.94:18001/"
+		return;
 	}
+	alert('준비중입니다');
 }
 
 $(document).ready(function() {
